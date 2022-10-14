@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Thu, 13 Oct 2022 15:59:01 at https://webflow-onboard.webflow.io
+(winhttrack https://webflow-onboard.webflow.io -O "/Users/greek/websites/form" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:59:02	Error: 	"Bad Gateway" (502) after 2 retries at link https://webflow-onboard.webflow.io/robots.txt (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 2 links scanned, 1 files written (25951 bytes overall) [6769 bytes received at 3384 bytes/sec], 25951 bytes transferred using HTTP compression in 1 files, ratio 22%
+(1 errors, 0 warnings, 0 messages)
